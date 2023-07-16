@@ -1,4 +1,4 @@
-# A-Collection-of-Numerical-Methods-in-Octave
+# A-Collection-of-Numerical-Methods-in-MatLab/Octave
 
 (Match the file number and below topic number)
 
